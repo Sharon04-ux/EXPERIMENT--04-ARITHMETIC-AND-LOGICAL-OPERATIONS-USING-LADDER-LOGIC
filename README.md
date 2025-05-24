@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME:
-# REGISTER NUMBER:
-# DEPARTMENT:
-# YEAR:
+#  NAME: SHARON ARUL BHARATHI J.F
+# REGISTER NUMBER:212224100056
+# DEPARTMENT: CSE(CS)
+# YEAR:1st year
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -75,7 +75,26 @@ Test the arithmetic and logical operations with physical push buttons and observ
 Arithmetic Operations: Verify that the output shows correct results for addition, subtraction, multiplication, and division.
 Logical Operations: Confirm that the output behaves as expected based on the logical conditions (AND, OR, NOT).
 ##  Simulation Screenshots:
-(Add screenshots of the ladder logic and operation results in the simulation software.)
+Addition
+![image](https://github.com/user-attachments/assets/7a32f692-5613-4162-8111-5e49ef20364c)
+![image](https://github.com/user-attachments/assets/c1ad9b5f-fabe-4c60-a9ce-3f47f39ebd49)
+![image](https://github.com/user-attachments/assets/1374ede4-8b53-495b-a7fe-7b7224f8843e)
+![image](https://github.com/user-attachments/assets/e09f3333-dde6-43b8-94bb-64005c4cbf60)
+Subtraction
+![image](https://github.com/user-attachments/assets/a20bdc2f-c770-484c-ba52-fb43bd08ac87)
+![image](https://github.com/user-attachments/assets/2c7c9e13-1c26-4c21-a14c-66f699b1c59b)
+![image](https://github.com/user-attachments/assets/6b2e38c6-9c9f-40d1-b291-a3df95a456c9)
+![image](https://github.com/user-attachments/assets/b96041d0-4255-4277-aedd-938a3f286194)
+Multiplication
+![image](https://github.com/user-attachments/assets/5c7c23d2-390d-4f18-a85c-3f95091b8a7f)
+![image](https://github.com/user-attachments/assets/becf152a-749a-4cb3-a2d7-a8f7cf731a47)
+![image](https://github.com/user-attachments/assets/bdac5bc4-f9c5-4d06-8787-217f26b5b3d4)
+![image](https://github.com/user-attachments/assets/7bcd55fe-87ce-4a3f-b645-4ccfb42c69c0)
+Division
+![image](https://github.com/user-attachments/assets/f4ad6dc1-e774-493b-926e-a498d3585792)
+![image](https://github.com/user-attachments/assets/7146cb03-acd4-438e-af45-18fd91044f59)
+![image](https://github.com/user-attachments/assets/e5a04c02-6095-4286-9da6-52d86e1b5892)
+![image](https://github.com/user-attachments/assets/37382d32-ed35-42eb-a79b-b5102e6f1d62)
 
 ## Results:
 The ladder logic programs for various arithmetic and logical operations were successfully implemented and tested. The outputs were as expected, demonstrating correct calculation and logical decision-making capabilities. This experiment illustrates the essential role of arithmetic and logical functions in automated processes.
